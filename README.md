@@ -1,3 +1,10 @@
+## Publications
+
+- [Mastering AngularJS Directives](https://www.amazon.com/Mastering-AngularJS-Directives-Josh-Kurz/dp/178398158X/)
+- [HardenEKS: Validating Best Practices for Amazon EKS Clusters Programmatically](https://aws.amazon.com/blogs/containers/hardeneks-validating-best-practices-for-amazon-eks-clusters-programmatically/)
+- [5 Tips for AWS Certification Exams from AWS Solutions Architects](https://aws.amazon.com/blogs/training-and-certification/5-tips-for-aws-certification-exams-from-aws-solutions-architects/)
+- [ChatGPT vs Bard in a Game of Chess](https://medium.com/@jkurz25/chatgpt-vs-bard-in-a-game-of-chess-b3bbd796bf76)
+
 ## I'm currently working on
 
 These repositories were updated in the past year:
