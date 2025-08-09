@@ -1,3 +1,8 @@
+## Publications
+
+- [Mastering AngularJS Directives](https://www.amazon.com/Mastering-AngularJS-Directives-Josh-Kurz/dp/178398158X/)
+- [ChatGPT vs Bard in a Game of Chess](https://medium.com/@jkurz25/chatgpt-vs-bard-in-a-game-of-chess-b3bbd796bf76)
+
 ## I'm currently working on
 
 These repositories were updated in the past year:
