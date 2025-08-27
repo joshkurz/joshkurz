@@ -1,0 +1,26 @@
+= Publications
+:toc:
+:toclevels: 2
+:sectnums:
+:sectanchors:
+
+include::nav.adoc[]
+
+[%header,cols="1,2"]
+|===
+|Title | Link
+
+|Mastering AngularJS Directives
+|https://www.amazon.com/Mastering-AngularJS-Directives-Josh-Kurz/dp/178398158X/[Amazon]
+
+|HardenEKS: Validating Best Practices for Amazon EKS Clusters Programmatically
+|https://aws.amazon.com/blogs/containers/hardeneks-validating-best-practices-for-amazon-eks-clusters-programmatically/[AWS Blog]
+
+|5 Tips for AWS Certification Exams from AWS Solutions Architects
+|https://aws.amazon.com/blogs/training-and-certification/5-tips-for-aws-certification-exams-from-aws-solutions-architects/[AWS Blog]
+
+|ChatGPT vs Bard in a Game of Chess
+|https://medium.com/@jkurz25/chatgpt-vs-bard-in-a-game-of-chess-b3bbd796bf76[Medium]
+|===
+
+include::nav.adoc[]
