@@ -1,0 +1,27 @@
+= I'm Currently Working On
+:toc:
+:toclevels: 2
+:sectnums:
+:sectanchors:
+
+include::nav.adoc[]
+
+These repositories were updated in the past year:
+
+[%autowidth,cols="1,2",options="header"]
+|===
+|Repository | Description
+
+|🚀 https://github.com/joshkurz/joshkurz[joshkurz]
+|Josh Kurz works at JPMorgan Chase by day and moonlights as the mastermind behind joshkurz.net, where he uses advanced AI to answer life’s most pressing question: “What if dad jokes had a 401(k)?”
+
+|🚀 https://github.com/joshkurz/joshkurzsite[joshkurzsite]
+|Why don't websites ever get lost? Because they always follow their breadcrumbs.
+
+|🚀 https://github.com/joshkurz/ibjjf-elo[ibjjf-elo]
+|Why did the jiu-jitsu developer bring a ladder? To reach the next belt in the rankings.
+|===
+
+TIP: Explore these projects to see how humor and code can live in harmony. For a broader set of achievements see link:accomplishments.adoc[Josh Kurz's Accomplishments].
+
+include::nav.adoc[]
