@@ -1,13 +1,10 @@
 = Welcome to Josh Kurz's Projects
-:toc:
-:toclevels: 2
 :sectanchors:
 
-Josh Kurz builds cloud-native solutions and writes about software engineering. Use the links below to explore publications, active projects, and a catalog of accomplishments.
+[.breadcrumbs]
+🏠 *Home* › link:publications.adoc[Publications] › link:working-on.adoc[I'm Currently Working On] › link:accomplishments.adoc[Accomplishments]
 
-* link:publications.adoc[Publications]
-* link:working-on.adoc[I'm Currently Working On]
-* link:accomplishments.adoc[Accomplishments]
+Josh Kurz builds cloud-native solutions and writes about software engineering. Use the links below to explore publications, active projects, and a catalog of accomplishments.
 
 == Publications
 
