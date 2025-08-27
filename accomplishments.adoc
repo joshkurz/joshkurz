@@ -1,13 +1,9 @@
 = Josh Kurz's Accomplishments [[accomplishments]]
-:toc:
-:toclevels: 2
 :sectnums:
 :sectanchors:
 
-* link:README.adoc[Home]
-* link:publications.adoc[Publications]
-* link:working-on.adoc[I'm Currently Working On]
-* Accomplishments
+[.breadcrumbs]
+🏠 link:README.adoc[Home] › link:publications.adoc[Publications] › link:working-on.adoc[I'm Currently Working On] › *Accomplishments*
 
 Below is a list of his public GitHub projects.
 

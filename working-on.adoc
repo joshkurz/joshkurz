@@ -1,13 +1,9 @@
 = I'm Currently Working On
-:toc:
-:toclevels: 2
 :sectnums:
 :sectanchors:
 
-* link:README.adoc[Home]
-* link:publications.adoc[Publications]
-* I'm Currently Working On
-* link:accomplishments.adoc[Accomplishments]
+[.breadcrumbs]
+🏠 link:README.adoc[Home] › link:publications.adoc[Publications] › *I'm Currently Working On* › link:accomplishments.adoc[Accomplishments]
 
 These repositories were updated in the past year:
 
