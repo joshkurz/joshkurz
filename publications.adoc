@@ -5,7 +5,7 @@
 :sectanchors:
 
 * link:README.adoc[Home]
-* link:publications.adoc[Publications]
+* Publications
 * link:working-on.adoc[I'm Currently Working On]
 * link:accomplishments.adoc[Accomplishments]
 
