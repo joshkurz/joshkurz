@@ -1,4 +1,0 @@
-* link:README.adoc[Home]
-* link:publications.adoc[Publications]
-* link:working-on.adoc[I'm Currently Working On]
-* link:accomplishments.adoc[Accomplishments]

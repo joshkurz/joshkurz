@@ -4,7 +4,10 @@
 :sectnums:
 :sectanchors:
 
-include::nav.adoc[]
+* link:README.adoc[Home]
+* link:publications.adoc[Publications]
+* link:working-on.adoc[I'm Currently Working On]
+* link:accomplishments.adoc[Accomplishments]
 
 These repositories were updated in the past year:
 
@@ -23,5 +26,3 @@ These repositories were updated in the past year:
 |===
 
 TIP: Explore these projects to see how humor and code can live in harmony. For a broader set of achievements see link:accomplishments.adoc[Josh Kurz's Accomplishments].
-
-include::nav.adoc[]

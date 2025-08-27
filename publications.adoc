@@ -4,7 +4,10 @@
 :sectnums:
 :sectanchors:
 
-include::nav.adoc[]
+* link:README.adoc[Home]
+* link:publications.adoc[Publications]
+* link:working-on.adoc[I'm Currently Working On]
+* link:accomplishments.adoc[Accomplishments]
 
 [%header,cols="1,2"]
 |===
@@ -22,5 +25,3 @@ include::nav.adoc[]
 |ChatGPT vs Bard in a Game of Chess
 |https://medium.com/@jkurz25/chatgpt-vs-bard-in-a-game-of-chess-b3bbd796bf76[Medium]
 |===
-
-include::nav.adoc[]
