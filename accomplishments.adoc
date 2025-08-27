@@ -4,7 +4,10 @@
 :sectnums:
 :sectanchors:
 
-include::nav.adoc[]
+* link:README.adoc[Home]
+* link:publications.adoc[Publications]
+* link:working-on.adoc[I'm Currently Working On]
+* link:accomplishments.adoc[Accomplishments]
 
 Below is a list of his public GitHub projects.
 
@@ -65,5 +68,3 @@ Below is a list of his public GitHub projects.
 * 🐙 https://github.com/joshkurz/proton-codebuild-provisioning-examples[proton-codebuild-provisioning-examples] - This repository contains sample IaC templates to demonstrate how to leverage Codebuild provisioning with AWS Proton.
 * 🐙 https://github.com/joshkurz/skywalking-nodejs[skywalking-nodejs] - The NodeJS agent for Apache SkyWalking
 * 🐙 https://github.com/joshkurz/ui-calendar[ui-calendar] - A complete AngularJS directive for the Arshaw FullCalendar.
-
-include::nav.adoc[]

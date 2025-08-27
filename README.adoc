@@ -3,10 +3,9 @@
 :toclevels: 2
 :sectanchors:
 
-include::nav.adoc[]
+Josh Kurz builds cloud-native solutions and writes about software engineering. Use the links below to explore publications, active projects, and a catalog of accomplishments.
 
-Josh Kurz is a developer based in Atlanta, GA.
-
-Welcome! Use the links above to explore publications, active projects, and a catalog of accomplishments.
-
-include::nav.adoc[]
+* link:README.adoc[Home]
+* link:publications.adoc[Publications]
+* link:working-on.adoc[I'm Currently Working On]
+* link:accomplishments.adoc[Accomplishments]
