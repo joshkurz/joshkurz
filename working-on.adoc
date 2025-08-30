@@ -5,11 +5,14 @@
 [.breadcrumbs]
 🏠 link:README.adoc[Home] › link:publications.adoc[Publications] › *I'm Currently Working On* › link:accomplishments.adoc[Accomplishments]
 
-These repositories were updated in the past year:
+This section highlights my current project and repositories updated in the past year:
 
 [%autowidth,cols="1,2",options="header"]
 |===
 |Repository | Description
+
+|🌟 https://github.com/joshkurz/fast-adoc-blog[fast-adoc-blog]
+|*Current Focus:* A lightning-fast AsciiDoc blog engine deployed on Vercel. Read it at https://fast-adoc-blog.vercel.app/[fast-adoc-blog.vercel.app].
 
 |🚀 https://github.com/joshkurz/joshkurz[joshkurz]
 |Josh Kurz works at JPMorgan Chase by day and moonlights as the mastermind behind joshkurz.net, where he uses advanced AI to answer life’s most pressing question: “What if dad jokes had a 401(k)?”

@@ -6,6 +6,10 @@
 
 Josh Kurz builds cloud-native solutions and writes about software engineering. Use the links below to explore publications, active projects, and a catalog of accomplishments.
 
+== Current Project
+
+*fast-adoc-blog* is a lightning-fast blog engine that turns AsciiDoc into web pages at warp speed. Dive into the live site at https://fast-adoc-blog.vercel.app/[fast-adoc-blog.vercel.app] or explore the code on https://github.com/joshkurz/fast-adoc-blog[GitHub].
+
 == Publications
 
 [%header,cols="1,2"]
