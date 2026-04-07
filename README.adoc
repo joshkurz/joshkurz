@@ -6,7 +6,7 @@ Josh Kurz builds cloud-native AI solutions and speaks about the future of softwa
 
 == Current Focus
 
-I spend most of my time at the intersection of AI engineering and developer advocacy -- specifically how coding agents are changing the way software gets built. I delivered a talk on this at https://devnexus.com[DevNexus 2026]: *"Unlocking Engineering Productivity with IDE-Based Coding Agents"*, covering production-grade agent orchestration, skill discovery, and what it actually looks like to build with agents at scale inside a large organization.
+I spend most of my time at the intersection of AI engineering and developer advocacy -- specifically how coding agents are changing the way software gets built. I delivered a talk on this at https://devnexus.com/events/unlocking-engineering-productivity-with-ide-based-coding-agents[DevNexus 2026]: *"Unlocking Engineering Productivity with IDE-Based Coding Agents"*, covering production-grade agent orchestration, skill discovery, and what it actually looks like to build with agents at scale inside a large organization.
 
 == Current Project
 
